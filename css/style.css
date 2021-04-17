@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.difcard{
+    width: 48% !important;
+}
+.ownwidth{
+    width: 50%;
+}
+@media (max-width:970px){
+    .difcard{
+        width: 100% !important;
+    }
+    .ownwidth{
+        width: 100%;
+    }
+}
